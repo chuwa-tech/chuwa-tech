@@ -16,7 +16,7 @@ Apasionado por la tecnología, la automatización y la visualización de datos.
 
 ## 🚀 Proyectos Destacados
 
-- **Sistema de Localización de Fuentes Sonoras (TFG)**  
-  Desarrollo de un sistema que permite identificar y localizar la posición de fuentes de sonido en un entorno determinado, utilizando técnicas de procesamiento de señales y análisis de audio. El proyecto se encuentra actualmente en fase de desarrollo y está orientado a mejorar la precisión y eficiencia en la detección de sonidos en aplicaciones de ingeniería acústica y automatización. 
+### **Sistema de Localización de Fuentes Sonoras (TFG)**  
+Desarrollo de un sistema que permite identificar y localizar la posición de fuentes de sonido en un entorno determinado, utilizando técnicas de procesamiento de señales y análisis de audio. El proyecto se encuentra actualmente en fase de desarrollo y está orientado a mejorar la precisión y eficiencia en la detección de sonidos en aplicaciones de ingeniería acústica y automatización. 
 
 ¡Gracias por visitar mi perfil!
