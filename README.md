@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Diego
 
-Desarrollador de software con experiencia en múltiples lenguajes y herramientas.  
+Ingeniero de computadores con experiencia en múltiples lenguajes y herramientas.  
 Apasionado por la tecnología, la automatización y la visualización de datos.
 
 ## 🛠️ Tecnologías
